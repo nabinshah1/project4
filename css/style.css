@@ -1,0 +1,33 @@
+@media(min-width:1200px){
+    .container{max-width: 1290px;}
+    articale h2{font-size: 64px;}
+}
+:root
+{
+    --brand:#6F1F30;
+    
+}
+
+  .bg-body-tertiary {
+    background: var(--brand) !important;
+  }
+  
+  .navbar-expand-lg .navbar-nav .nav-link {
+    color: white;
+    font-size: 22px;
+    padding: 14px 15px;
+  }
+  
+  .navbar-expand-lg .navbar-nav .nav-link:hover {
+    background: #df5353;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    line-height: 1.7;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
